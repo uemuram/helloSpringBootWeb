@@ -1,0 +1,8 @@
+springbootŠî‘b
+https://eng-entrance.com/java-springboot#SpringBoot
+https://www.slideshare.net/navekazu/spring-bootweb
+https://qiita.com/yukihigasi/items/befb7425731bd29aeb7a
+
+
+rest API
+https://qiita.com/YutaKase6/items/487edfa9f6e39ac2f939
