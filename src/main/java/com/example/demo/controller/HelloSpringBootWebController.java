@@ -28,10 +28,10 @@ public class HelloSpringBootWebController {
 	public ModelAndView send(@RequestParam("inputvalue") String inputvalue, ModelAndView mv) {
 
 		// DIされたサービス呼び出し
-		int x = service.doSomeService();
+		int x = service.doSomeService(inputvalue);
 
 		mv.setViewName("result");
-		mv.addObject("message", inputvalue + x);
+		mv.addObject("message", inputvalue);
 		return mv;
 	}
 }
